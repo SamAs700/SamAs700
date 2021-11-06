@@ -1,9 +1,9 @@
-### Hello!
+### Hello!👋
 
 I am Sam As. I am a custom roms developer.
 
 ### I am currently maintaining this roms:
-[Project-Fluid](https://github.com/project-fluid).
+[Project-Fluid](https://github.com/project-fluid)
 
 [![fluid repo card](https://github-readme-stats.vercel.app/api/pin/?username=Project-Fluid&repo=manifest&border_radius=8&icon_color=f44336&theme=dark)](https://github.com/project-fluid/manifest)
 
