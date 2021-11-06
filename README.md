@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**SamAs700/SamAs700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sam As. I am a custom roms developer.
 
-Here are some ideas to get you started:
+### I am currently maintaining this roms:
+[Project-Fluid](https://github.com/project-fluid).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![fluid repo card](https://github-readme-stats.vercel.app/api/pin/?username=Project-Fluid&repo=manifest&border_radius=8&icon_color=f44336&theme=dark)](https://github.com/project-fluid/manifest)
+
+[DerpFest](https://github.com/DerpFest-12)
+
+[![Derpfest repo card](https://github-readme-stats.vercel.app/api/pin/?username=DerpFest-12&repo=manifest&border_radius=8&icon_color=f44336&theme=dark)](manifest)
+
+### GitHub stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamAs700&count_private=true&border_radius=8&icon_color=f44336&show_icons=true&theme=dark" />
+
+</a>
+
+### Contact me:
+
+<a href="https://t.me/SamAs700"><img width="38px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1754812-1490132.png"></a>
