@@ -1,6 +1,6 @@
 ### Hello!👋
 
-I am Sam As. I am a custom roms developer.
+I am Sam As. I maintain custom roms.
 
 ### I am currently maintaining this roms:
 [Project-Fluid](https://github.com/project-fluid)
